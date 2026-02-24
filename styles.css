@@ -67,7 +67,7 @@ a:hover {
 
 img {
   border: 5px solid #4CAF50;
-  border-radius: 10ps;
+  border-radius: 10px;
 
   main a[href^="malito."] {
     color: #ff5722;
