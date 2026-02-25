@@ -1,4 +1,4 @@
-body{
+body {
   font-family: Arial, sans-serif;
   color: #333;
   background-color: #f9f9f9;
@@ -7,8 +7,8 @@ body{
   line-height: 1.6;
 }
 
-header{
-  background-color: #4CAF50;
+header {
+  background-color: #00008B;
   color: white;
   padding: 20px;
   text-align: center;
@@ -57,7 +57,7 @@ p {
 }
 
 a {
-  color: #4CAF50;
+  color: #00008B;
   text-decoration: none;
 }
 
@@ -66,10 +66,10 @@ a:hover {
 }
 
 img {
-  border: 5px solid #4CAF50;
+  border: 5px solid #00008B;
   border-radius: 10px;
 
-  main a[href^="malito."] {
+  main a[href^="malito:"] {
     color: #ff5722;
     font-weight: bold;
   }
