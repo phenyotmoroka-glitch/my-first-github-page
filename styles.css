@@ -68,8 +68,9 @@ a:hover {
 img {
   border: 5px solid #00008B;
   border-radius: 10px;
+}
 
-  main a[href^="malito:"] {
+  main a[href^="mailto:"] {
     color: #ff5722;
     font-weight: bold;
   }
